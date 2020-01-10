@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+**/embeddings/
+**/__pycache__/
+**/__init__.pyc
+*.db
