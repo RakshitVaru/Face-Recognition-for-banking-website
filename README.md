@@ -4,7 +4,7 @@ This project is about Facial Recognition webservices through RestFul API that ha
 ## Installation
 Linux Ubuntu 18.04 LTS
 ```
-$ git clone https://github.com/10zinten/face-recognition.git
+$ 
 $ cd face-recognition-api
 $ virtualenv env -p python3.6
 $ source env/bin/activate
