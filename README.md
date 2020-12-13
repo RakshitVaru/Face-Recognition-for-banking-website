@@ -4,7 +4,7 @@ This project is about Facial Recognition webservices through RestFul API that ha
 ## Installation
 Linux Ubuntu 18.04 LTS
 ```
-$ 
+$ git clone https://git.cs.dal.ca/varu/face-recognition-for-banking-website.git
 $ cd face-recognition-api
 $ virtualenv env -p python3.6
 $ source env/bin/activate
